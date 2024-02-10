@@ -1,16 +1,16 @@
 {
 	"folders": [
 		{
-			"name": "a-b - API",
-			"path": "../a/b/api"
+			"name": "A - api",
+			"path": "../domains/domain-A/services/api"
 		},
 		{
-			"name": "c-d - API",
-			"path": "../c/d/api"
+			"name": "B - api",
+			"path": "../domains/domain-B/services/api"
 		},
 		{
-			"name": "e-f - API",
-			"path": "../e/f/api"
+			"name": "C - api",
+			"path": "../domains/domain-C/services/api"
 		}
 	],
 	"settings": {}
