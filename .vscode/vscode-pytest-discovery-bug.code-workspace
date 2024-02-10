@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "a-b - API",
+			"path": "../a/b/api"
+		},
+		{
+			"name": "c-d - API",
+			"path": "../c/d/api"
+		},
+		{
+			"name": "e-f - API",
+			"path": "../e/f/api"
+		}
+	],
+	"settings": {}
+}
